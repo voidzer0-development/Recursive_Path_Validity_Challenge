@@ -1,4 +1,4 @@
-# Recursive_Path_Validity_Challange
+Recursion challange:
 
 Recursive path validity. The purpose of this challange is to determine whether you can walk from one coordinate (x1, y1) to another (x2, y2).
 However you cannot take any path, only two paths are available from each coordinate, which are (x, x+y) or (x+y, y).
@@ -14,4 +14,3 @@ The method has to determine if there is a valid route between the start and endp
 
 The method signature should look as follows: 
 public static boolean isRoute(int xStart, int yStart, int xEnd, int yEnd)
-
