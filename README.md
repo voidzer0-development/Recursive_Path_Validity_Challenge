@@ -1,4 +1,4 @@
-# Recursive_Path_Validity_Challange
+# Recursive_Path_Validity_Challenge
 
 Recursive path validity. The purpose of this challange is to determine whether you can walk from one coordinate (x1, y1) to another (x2, y2).
 However you cannot take any path, only two paths are available from each coordinate, which are (x, x+y) or (x+y, y).
